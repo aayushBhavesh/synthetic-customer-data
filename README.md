@@ -38,22 +38,22 @@ The goal is to:
 We explored demographics and customer behavior to understand trends:
 
 - **Age distribution**  
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](Customer_Analysis/images/age_distribution.png)
 
 - **Gender distribution**  
-![Gender Distribution](images/gender_distribution.png)
+![Gender Distribution](Customer_Analysis/images/gender_distribution.png)
 
 - **Income distribution**  
-![Income Distribution](images/income_distribution.png)
+![Income Distribution]Customer_Analysis/(images/income_distribution.png)
 
 - **Top 10 cities by customers**  
-![Top 10 Cities](images/top_10_cities_by_customerspng.png)
+![Top 10 Cities](Customer_Analysis/images/top_10_cities_by_customerspng.png)
 
 - **Spending vs Loyalty Points relationship**  
-![Spending vs Loyalty](images/spending_vs_loyalty_points.png)
+![Spending vs Loyalty](Customer_Analysis/images/spending_vs_loyalty_points.png)
 
 - **Correlation heatmap of features**  
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Customer_Analysis/images/correlation_heatmap.png)
 
 ---
 
@@ -62,7 +62,7 @@ We explored demographics and customer behavior to understand trends:
 We clustered customers into **4 groups** based on income and spending.  
 
 **Cluster Visualization**  
-![Customer Segments](images/customer_segments_(income_vs_spending.png)
+![Customer Segments](Customer_Analysis/images/customer_segments_(income_vs_spending.png)
 
 ---
 
@@ -75,7 +75,7 @@ A machine learning model was built to predict churn risk:
 * Evaluation: precision, recall, F1-score  
 
 **Feature Importance for Churn Prediction**  
-![Feature Importance](images/feature_importance_for_churn_prediction.png)
+![Feature Importance](Customer_Analysis/images/feature_importance_for_churn_prediction.png)
 
 ---
 
