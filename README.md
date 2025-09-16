@@ -44,7 +44,7 @@ We explored demographics and customer behavior to understand trends:
 ![Gender Distribution](Customer_Analysis/images/gender_distribution.png)
 
 - **Income distribution**  
-![Income Distribution]Customer_Analysis/(images/income_distribution.png)
+![Income Distribution](Customer_Analysis/images/income_distribution.png)
 
 - **Top 10 cities by customers**  
 ![Top 10 Cities](Customer_Analysis/images/top_10_cities_by_customerspng.png)
@@ -62,7 +62,7 @@ We explored demographics and customer behavior to understand trends:
 We clustered customers into **4 groups** based on income and spending.  
 
 **Cluster Visualization**  
-![Customer Segments](Customer_Analysis/images/customer_segments_(income_vs_spending.png)
+![Customer Segments](Customer_Analysis/images/customer_segments_income_vs_spending.png)
 
 ---
 
